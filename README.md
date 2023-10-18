@@ -6,3 +6,4 @@
 1. React Router Dom
 1. React Context API
 1. Todo App
+1. Redux Toolkit
